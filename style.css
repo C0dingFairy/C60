@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+#apps {
+    background: linear-gradient(pink, yellow, green);
+    color: floralwhite;
+}
+#games {
+    background: linear-gradient(lightblue, blanchedalmond, plum);
+    color: floralwhite;
+}
+#chatbots {
+    background: linear-gradient(chartreuse, khaki, cornflowerblue);
+    color: floralwhite;
+}
